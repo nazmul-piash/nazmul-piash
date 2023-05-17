@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rizwan.</h1>
+<h1 align="center">Hi 👋, I'm Kazi.</h1>
 <div align="center">A passionate frontend developer from Bangladesh based in Germany</div>  
   <h3 align="center">Welcome to my profile !!</h3>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I am learning Advanced Next.js and Micro-Frontend.
 
-- 📫 How to reach me: **rizwankabirsizan@gmail.com**
+- 📫 How to reach me: **md.nazmulhudapiash@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/rizwanK-resume](https://bit.ly/rizwanK-resume)
+- 📄 Know about my experiences [https://bit.ly/kazi_nazmul_huda_resume](https://bit.ly/kazi_nazmul_huda_resume)
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
