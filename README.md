@@ -27,7 +27,7 @@
 </a>  
 </div>
 
-<br/>
+<!-- <br/>
 
 <h2>✔️ My area of expertise </h2>
 
@@ -62,8 +62,8 @@ height="50" />
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true"  width="45%" height="50%" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" width="45%" height="50%" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" width="45%" height="50%" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" width="28%" height="47%" />
  -->
-
-</div>
+<!-- 
+</div> -->
