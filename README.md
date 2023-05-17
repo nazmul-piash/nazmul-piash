@@ -2,9 +2,9 @@
 <div align="center">A Developer of Web based application mostly designed with PHP frameworks</div>  
   <h3 align="center">Welcome to my profile !!</h3>
 
-- 🔭 I’m currently working as a Frontend Developer at Fashion Digital GmbH & Co. KG. [React, Next.js, TypeScript, Apollo GraphQL, Storybook, Tailwind CSS]
+- 🔭 I’m currently working as a Backend Developer at Incypro GmbH & Co. KG. [Zend, jQuery, MySql, Tailwind CSS]
 
-- 🌱 I am learning Advanced Next.js and Micro-Frontend.
+- 🌱 I am learning new tools and growing everyday. Laravel is my current area of interest while Zend is my responsibility 
 
 - 📫 How to reach me: **md.nazmulhudapiash@gmail.com**
 
@@ -16,13 +16,13 @@
 ## Connect with me
 
 <div >
-<a href="https://linkedin.com/in/kabirrizwan" target="_blank">
+<a href="https://www.linkedin.com/in/kazi-nazmul-huda-41b1a5127" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;margin-right:5px;" />
 </a>
-<a href="https://instagram.com/rizwan.kabir" target="_blank">
+<a href="https://instagram.com/knh.piash" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;margin-right:5px;" />
 </a>
-<a href="https://www.facebook.com/riijwan" target="_blank">
+<a href="https://www.facebook.com" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;margin-right:5px;" />
 </a>  
 </div>
