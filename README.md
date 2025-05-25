@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **md.nazmulhudapiash@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/kazi_nazmul_huda_resume](https://bit.ly/kazi_nazmul_huda_resume)
+- 📄 visit me  [https://kazi-hub.netlify.app/]
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 - ⚡ Fun fact: I use tabs over spaces
